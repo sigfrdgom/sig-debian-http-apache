@@ -6,7 +6,7 @@
 </head>
   <body>
 <h1> Llegaste al index</h1>
-
+Estas en la pagina principal<br>
  <?php
 print "El hostname del servidor es: ";
 echo gethostname();
